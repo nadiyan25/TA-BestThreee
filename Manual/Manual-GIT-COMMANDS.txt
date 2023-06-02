@@ -1,0 +1,60 @@
+#  KETUA KELOMPOK 
+   1. BUAT REPOSITORY PUBLIC
+      FORMAT (TA-NAMA KELOMPOK)
+
+   2. BUAT FOLDER PROJECT (FOLDER MINIMAL TERISI 1 FILE)
+
+   3. GIT COMMANDS
+      - KONFIGURASI
+        git config --global user.name ISI USERNAME
+        git config --global user.email ISI EMAIL
+      
+      - INISIALISASI 
+        git init
+        git remote add origin LINK PROJECT GITHUB
+      
+      - UPLOAD PROJECT
+        git add .
+        git commit -m "NAMA BRANCH: ISI PESAN PERUBAHAN"
+        git push origin NAMA BRANCH 
+        
+      - UPDATE PROJECT
+        git pull origin NAMA BRANCH  
+   
+   4. TAMBAH COLLABORATOR
+===========================================================
+#  ANGGOTA KELOMPOK
+      
+   1. GIT COMMANDS 
+      - KONFIGURASI
+        git config --global user.name ISI USERNAME
+        git config --global user.email ISI EMAIL
+    
+      - CLONING REPOSITORY
+        git clone LINK-PROJECT-GITHUB NAMA-FOLDER
+    
+      - BUAT BRANCH
+        git branch NAMA BRANCH YANG AKAN DIBUAT(GUNAKAN NAMA SINGKAT)
+        
+      - CEK BRANCH
+        git branch
+      
+      - MENGAKTIFKAN BRANCH
+        git checkout NAMA BRANCH YANG AKAN DIAKTIFKAN
+        
+      - HAPUS BRANCH (LOKAL)
+        git branch -d NAMA BRANCH YANG AKAN DIHAPUS
+        
+      - HAPUS BRANCH (ONLINE / REPOSITORY)
+        git push -d origin NAMA BRANCH YANG AKAN DIHAPUS
+    
+      - UPLOAD PROJECT
+        git add .
+        git commit -m "NAMA BRANCH: ISI PESAN PERUBAHAN"
+        git push origin NAMA BRANCH
+        
+      - UPDATE PROJECT
+        git pull origin NAMA BRANCH 
+ 
+      - UPDATE PROJECT
+        git pull origin NAMA BRANCH   
