@@ -336,6 +336,22 @@
                 <h4>Location:</h4>
                 <p>Teknokrat University</p>
               </div>
+
+        <div class="email">
+                <i class="bi bi-envelope"></i>
+                <h4>Email:</h4>
+                <p>info@teknokrat.com</p>
+              </div>
+
+            <div class="phone">
+                <i class="bi bi-phone"></i>
+                <h4>Call:</h4>
+                <p>+6281278953962</p>
+              </div>
+
+            </div>
+
+          </div>
                 
               
               
