@@ -299,6 +299,26 @@
               </div>
             </div><!-- End testimonial item -->
 
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/team/T3.jpeg" class="testimonial-img" alt="">
+                <h3>Akbar Pangestu</h3>
+                <h4>FrontEnd</h4>
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Bertugas mengembangkan tampilan antarmuka pengguna alias User Interface (UI) agar lebih nyaman saat diakses oleh pengguna.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+              </div>
+            </div><!-- End testimonial item -->
+
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+    </section><!-- End Testimonials Section -->
+
               
               
               
