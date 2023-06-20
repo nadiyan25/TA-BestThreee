@@ -261,7 +261,30 @@
 
       </div>
     </section><!-- End Portfolio Section -->
+          
+    <!-- ======= Testimonials Section ======= -->
+    <section id="testimonials" class="testimonials section-bg">
+      <div class="container" data-aos="fade-up">
 
+        <div class="section-title">
+          <h2>Team BestThree</h2>
+        </div>
+
+        <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/team/T1.jpeg" class="testimonial-img" alt="">
+                <h3>Nadiyan Syah Wahyu Nugroho</h3>
+                <h4>FrontEnd</h4>
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Bertugas mengembangkan tampilan antarmuka pengguna alias User Interface (UI) agar lebih nyaman saat diakses oleh pengguna.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+              </div>
+            </div><!-- End testimonial item -->
 
               
               
