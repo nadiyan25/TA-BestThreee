@@ -157,7 +157,21 @@
                 </div>
               </div>
             </div>
-          </div>    
+          </div>
+
+        <div class="col-lg-2 col-md-4 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/fotooli/OLI-6.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <p>Oli</p>
+                <h4>Federal UltraTech</h4>
+                <div class="portfolio-links">
+                  <a href="assets/img/fotooli/OLI-6.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
     
 </body>
 </html>
