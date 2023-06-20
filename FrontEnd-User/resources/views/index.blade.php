@@ -48,6 +48,14 @@
 
   </header><!-- End Header -->
 
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex flex-column justify-content-center">
+    <div class="container" data-aos="zoom-in" data-aos-delay="100">
+      <h1>AJM Sparepart Motor</h1>
+      <p>Menyediakan Berbagai Sparepart Motor Anda</p>
+    </div>
+  </section><!-- End Hero -->
+
     
 </body>
 </html>
