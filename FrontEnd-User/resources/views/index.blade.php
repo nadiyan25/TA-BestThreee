@@ -56,6 +56,20 @@
     </div>
   </section><!-- End Hero -->
 
+        
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>About</h2>
+          <p>Website AJM Sparepart Motor ini dibuat untuk menampilkan katalog sparepart motor mulai dari suku cadang, oli, ban, dan aksesoris motor.
+            Spare Part atau suku cadang adalah industri yang bergerak pada bisnis penyediaan komponen otomotif atau suku cadang untuk memenuhi kebutuhan masyarakat.
+            Website Sparepart ini bertujuan untuk memudahkan untuk mencari atau melihat produk-produk sparepart motor sesuai kebutuhan. 
+            Untuk saat ini yang tersedia dalam website katalog AJM sparepart motor yaitu Oli dengan berbagai macam merek yang ada.</p>
+        </div>
+    </section><!-- End About Section -->
+
     
 </body>
 </html>
