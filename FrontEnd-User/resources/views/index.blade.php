@@ -187,6 +187,20 @@
             </div>
           </div>
 
+        <div class="col-lg-2 col-md-4 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/fotooli/OLI-8.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <p>Oli</p>
+                <h4>MPX1</h4>
+                <div class="portfolio-links">
+                  <a href="assets/img/fotooli/OLI-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
               
 </body>
 </html>
