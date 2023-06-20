@@ -286,6 +286,20 @@
               </div>
             </div><!-- End testimonial item -->
 
+         <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/team/T2.jpeg" class="testimonial-img" alt="">
+                <h3>Derit Junio Marcelleno</h3>
+                <h4>BackEnd</h4>
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Bertugas menyimpan dan mengatur data, serta memastikan hal yang ada pada sisi klien berfungsi dan tidak bermasalah.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+              </div>
+            </div><!-- End testimonial item -->
+
+              
               
               
 </body>
